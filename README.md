@@ -1,7 +1,7 @@
 # Shyamalrao-Uppu
 <h2>👋 Hello, Welcome to My Profile!</h2>  
 
-I'm a passionate <b>Software Developer & AI Engineer</b> with a diverse background in **AI, .NET Development, and Project Management**. I thrive on solving complex problems, building innovative solutions, and continuously exploring new technologies.  
+I'm a passionate <b>Software Developer & ML/AI Engineer</b> with a diverse background in **AI, .NET Development, and Project Management**. I thrive on solving complex problems, building innovative solutions, and continuously exploring new technologies.  
 
 ---
 
