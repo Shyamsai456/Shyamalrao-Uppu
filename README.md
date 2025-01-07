@@ -21,7 +21,7 @@ I'm a passionate <b>Software Developer & ML/AI Engineer</b> with a diverse backg
 Python | C# | JavaScript | C++  
 
 **⛓️ Frameworks & Libraries:**  
-ASP.NET Core | Node.js | React.js | TensorFlow | PyTorch | Scikit-learn  
+ASP.NET Core | Node.js | React.js | TensorFlow | PyTorch | Scikit-learn | Flask | Django
 
 **💾 Databases:**  
 SQL | MongoDB  
@@ -30,13 +30,13 @@ SQL | MongoDB
 Azure | AWS  
 
 **🛠️ Tools & Technologies:**  
-Docker | Git | SCADA | OPC Protocols  
+Docker | Git | SCADA | OPC Protocols | TCP | I2C | MQTT | 
 
 **📊 Data Visualization:**  
 Power BI | Tableau  
 
 **📈 Project Management Tools:**  
-JIRA | Trello  
+JIRA   
 
 ---
 
