@@ -38,6 +38,8 @@ Power BI | Tableau
 **📈 Project Management Tools:**  
 JIRA   
 
+**🤖 Machine Learning:**
+Computer Vision | NLP | Generative AI
 ---
 
 ## 🌐 **Socials:**  
