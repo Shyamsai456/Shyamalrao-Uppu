@@ -30,7 +30,7 @@ SQL | MongoDB
 Azure | AWS  
 
 **🛠️ Tools & Technologies:**  
-Docker | Git | SCADA | OPC Protocols | TCP | I2C | MQTT | 
+Docker | Git | SCADA | OPC Protocols | TCP | I2C | MQTT | Rest API
 
 **📊 Data Visualization:**  
 Power BI | Tableau  
